@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Lab2</string>
+    <string name="btnNoResult">START A WITH NO RESULT</string>
+    <string name="btnAResult">START WITH A RESULT</string>
+    <string name="btnImplicity">START LAB2 IMPLICITY</string>
+    <string name="result">Result = </string>
+</resources>
